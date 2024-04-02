@@ -80,7 +80,7 @@ sudo ./init_master.sh
 ````
 # 6.	On Worker Node:
 
-•	Copy the ````kubeadm join```` command provided in the output of ````kubeadm```` init from the master node.
+•	Copy the ````kubeadm join```` command provided in the output of ````kubeadm init```` from the master node.
 
 •	Execute the command on the worker node as the root user.
 
